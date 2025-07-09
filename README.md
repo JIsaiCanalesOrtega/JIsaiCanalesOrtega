@@ -1,16 +1,61 @@
-## Hi there 👋
+#  Isai Canales
 
-<!--
-**JIsaiCanalesOrtega/JIsaiCanalesOrtega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador **Full Stack** de **Hidalgo, México**, con pasión por construir plataformas útiles, visuales y eficientes. En constante aprendizaje de nuevas tecnologías, inteligencia artificial y ciberseguridad.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+---
+
+## 🚀 Proyectos actuales
+
+### 📚 Ourlumina – Red social de libros en PDF
+- Subida y visualización de archivos PDF  
+- Creación de cuentas y perfil personal  
+- Compartir y explorar libros de otros usuarios  
+- Administración de tus propias subidas  
+- **Stack:** Astro + React + FastAPI + MongoDB
+
+### 📱 UrpBook – Lector de PDFs estilo Kindle
+- Lectura cómoda de archivos PDF  
+- Traducción integrada en tiempo real  
+- Guardado de traducciones en SQLite  
+- Notas y marcadores incorporados  
+- Desarrollada con **Flutter** para Android
+
+---
+
+## 🎮 Más sobre mí
+
+- 🔐 Apasionado por la **ciberseguridad** y la automatización
+- 🧠 Siempre buscando aprender cosas nuevas
+- 🎸 En mis tiempos libres toco guitarra o juego videojuegos
+
+---
+
+## 📊 GitHub Stats
+
+![Isai's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contacto
+
+- 📧 canalesisai48@gmail.com  
+---

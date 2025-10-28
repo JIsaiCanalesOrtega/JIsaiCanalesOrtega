@@ -1,6 +1,6 @@
 #  Isai Canales
 
-Desarrollador **Full Stack** de **Hidalgo, México**, con pasión por construir plataformas útiles, visuales y eficientes. En constante aprendizaje de nuevas tecnologías, inteligencia artificial y ciberseguridad.
+Desarrollador **JR** de **Hidalgo, México**, con pasión por construir plataformas útiles, visuales y eficientes. En constante aprendizaje de nuevas tecnologías, inteligencia artificial y ciberseguridad.
 
 ---
 
@@ -25,19 +25,7 @@ Desarrollador **Full Stack** de **Hidalgo, México**, con pasión por construir 
 
 ## 🚀 Proyectos actuales
 
-### 📚 Ourlumina – Red social de libros en PDF
-- Subida y visualización de archivos PDF  
-- Creación de cuentas y perfil personal  
-- Compartir y explorar libros de otros usuarios  
-- Administración de tus propias subidas  
-- **Stack:** Astro + React + FastAPI + MongoDB
 
-### 📱 UrpBook – Lector de PDFs estilo Kindle
-- Lectura cómoda de archivos PDF  
-- Traducción integrada en tiempo real  
-- Guardado de traducciones en SQLite  
-- Notas y marcadores incorporados  
-- Desarrollada con **Flutter** para Android
 
 ---
 

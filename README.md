@@ -28,7 +28,6 @@ Desarrollador **JR** de **Hidalgo, México**, con pasión por construir platafor
 
 ## 🎮 Más sobre mí
 
-- 🔐 Apasionado por la **ciberseguridad** y la automatización
 - 🧠 Siempre buscando aprender cosas nuevas
 - 🎸 En mis tiempos libres toco guitarra o juego videojuegos
 

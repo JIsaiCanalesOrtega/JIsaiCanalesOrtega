@@ -1,10 +1,11 @@
 #  Isai Canales
 
-Desarrollador Backend JR enfocado en Java y Spring Boot. 
-Experiencia construyendo APIs REST, manejo de bases de datos relacionales y lógica de negocio.
+Desarrollador Backend JR enfocado en Java y Spring Boot.
+Experiencia en desarrollo de APIs REST, manejo de bases de datos relacionales y lógica de negocio.
 
-Actualmente mejorando habilidades en consultas avanzadas, arquitectura backend y buenas prácticas para entornos productivos.
+Cuento con 1 año de experiencia en entorno empresarial, participando en el desarrollo y mantenimiento de sistemas.
 
+Actualmente fortaleciendo habilidades en consultas avanzadas, arquitectura backend y buenas prácticas para entornos productivos.
 ---
 
 ## 🛠️ Tech Stack

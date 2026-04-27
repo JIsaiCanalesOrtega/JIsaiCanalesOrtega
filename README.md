@@ -1,28 +1,36 @@
 #  Isai Canales
 
-Desarrollador **JR** de **Hidalgo, México**, con pasión por construir plataformas útiles, visuales y eficientes. En constante aprendizaje de nuevas tecnologías, inteligencia artificial y ciberseguridad.
+Desarrollador Backend JR enfocado en Java y Spring Boot. 
+Experiencia construyendo APIs REST, manejo de bases de datos relacionales y lógica de negocio.
+
+Actualmente mejorando habilidades en consultas avanzadas, arquitectura backend y buenas prácticas para entornos productivos.
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Backend
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+### Otros
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
 ---
 
 ## 🚀 Proyectos actuales
 
-
+- 🧾 Sistema de ventas (CRUD + API REST + MySQL)
+- 🏷️ Generador de etiquetas (automatización industrial con C#)
+- 🔌 Sistema de Dosificacion para maquinas de cardado
 
 ---
 

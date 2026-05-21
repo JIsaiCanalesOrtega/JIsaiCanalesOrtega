@@ -45,4 +45,5 @@ Actualmente fortaleciendo habilidades en consultas avanzadas, arquitectura backe
 ## 📫 Contacto
 
 - 📧 canalesisai48@gmail.com  
+- 📧 isaicanales67@gmail.com
 ---

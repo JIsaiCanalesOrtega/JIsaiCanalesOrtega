@@ -29,7 +29,7 @@ Actualmente fortaleciendo habilidades en consultas avanzadas, arquitectura backe
 
 ## 🚀 Proyectos actuales
 
-- 🧾 Sistema de ventas (CRUD + API REST + MySQL)
+- 🧾 Tienda-API (CRUD + API REST + MySQL)
 - 🏷️ Generador de etiquetas (automatización industrial con C#)
 - 🔌 Sistema de Dosificacion para maquinas de cardado
 
